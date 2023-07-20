@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SGG</string>
+    <string name="uso_principal">Uso Principal</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="area">Área</string>
+    <string name="dicose">Identificador Dicose</string>
+    <string name="add_lote">Agregar lote</string>
+    <string name="guardar">Guardar</string>
+
+</resources>
